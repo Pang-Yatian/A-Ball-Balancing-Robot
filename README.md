@@ -4,6 +4,7 @@ A ball balancing robot is a kind of dynamical stable robot, which is designed to
 
 
 video:  https://youtu.be/On0e1YCgcag
+
 https://www.bilibili.com/video/BV1TJ411x7tR?p=3
 
 ![image](https://github.com/Pang-Yatian/A-Ball-Balacicng-Robot/blob/master/image/ballbot.png)

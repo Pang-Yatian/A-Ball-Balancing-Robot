@@ -1,1 +1,1 @@
-
+SolidWorks model
